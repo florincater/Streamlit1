@@ -1,11 +1,8 @@
-swig
--f https://data.pyg.org/whl/torch-1.13.0+cpu.html
-torch-scatter
-torch
-gymnasium[box2d]>=0.29.0
-streamlit>=1.32.0
-pillow>=10.0.0
-numpy>=1.26.0
+torch==2.0.1 --index-url https://download.pytorch.org/whl/cpu
+gymnasium[box2d]==0.29.1
+streamlit==1.32.2
+pillow==10.3.0
+numpy==1.26.4
 
 
 
