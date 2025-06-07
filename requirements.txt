@@ -1,3 +1,4 @@
+swig
 -f https://data.pyg.org/whl/torch-1.13.0+cpu.html
 torch-scatter
 torch
@@ -5,3 +6,10 @@ gymnasium[box2d]>=0.29.0
 streamlit>=1.32.0
 pillow>=10.0.0
 numpy>=1.26.0
+
+
+
+
+
+
+
